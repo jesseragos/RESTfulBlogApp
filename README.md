@@ -1,6 +1,8 @@
 # RESTfulBlogApp
 A blog app developed in Node.js utilizing the concept of RESTful routes with Semantic UI framework.
 
+Disclaimer: This project is developed in collaboration from The Web Developer Bootcamp Udemy course.
+
 ### Requirements:
 1. [Node.js](https://nodejs.org/en/) is installed.
 
